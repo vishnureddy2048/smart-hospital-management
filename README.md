@@ -108,3 +108,45 @@ The frontend runs on **http://localhost:3000**
 - Default `ddl-auto=update` means tables are auto-created on first run — no manual SQL needed unless you prefer it.
 - Update the JWT secret in `application.properties` before deploying to production.
 - CORS is pre-configured for `http://localhost:3000`.
+
+- ## Screenshots
+
+### Login Page
+
+
+![Login](loginpage.png)
+
+
+
+### Register Page
+
+
+![Register](registerform.png)
+
+
+
+### Dashboard
+
+
+![Dashboard](dashboard.png)
+
+
+
+### Doctor Management
+
+
+![Doctors](doctorpage.png)
+
+
+
+### Patient Management
+
+
+![Patients](patientspage.png)
+
+
+
+### Appointments
+
+
+![Appointments](appointmentpage.png)
